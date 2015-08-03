@@ -7,7 +7,19 @@ https://developers.google.com/web/tools/polymer-starter-kit/
 
 
 --SHOW THE PROJECT  AND TOOLS
-project overview
+quick tour of polymer
+https://www.polymer-project.org/1.0/docs/start/quick-tour.html
+
+developers guide
+https://www.polymer-project.org/1.0/docs/devguide/feature-overview.html
+
+polymer articles 
+https://www.polymer-project.org/1.0/articles/
+
+api reference
+http://polymer.github.io/polymer/
+
+polymer catalog 
 https://elements.polymer-project.org/
 
 iron icons
@@ -32,6 +44,8 @@ http://codepen.io/silicon_hacker/pen/pJVYey
 google maps
 http://codepen.io/silicon_hacker/pen/MwQaXB
 
+add button and page for google parts
+
 
 --SHOW THE GOOGLE POLYMER DESIGNER
 http://polymer-designer.appspot.com/
@@ -40,3 +54,11 @@ http://polymer-designer.appspot.com/
 ---SHOW OTHERS CONTRIBUTIONS
 element collection
 http://experiments.wemakesites.net/
+
+spirit faith ministry website
+www.spiritfaithministry.com
+
+github class notes
+https://github.com/siliconhacker/polymerMeetup
+
+
