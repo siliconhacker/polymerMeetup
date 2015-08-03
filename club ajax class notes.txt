@@ -1,0 +1,42 @@
+--SHOW THE SETUP
+adobe brackets code editor
+http://brackets.io/
+
+project download
+https://developers.google.com/web/tools/polymer-starter-kit/
+
+
+--SHOW THE PROJECT  AND TOOLS
+project overview
+https://elements.polymer-project.org/
+
+iron icons
+https://www.polymer-project.org/0.5/components/core-icons/demo.html
+
+
+--SHOW THE DEMO ELEMENTS IN LIVE PREVIEW
+--show the demo htmls in live preview
+
+
+---SHOW BRACKETS BOWER
+polymer#^1.0.0
++iron-elements
++google-apis
++google-youtube
+
+
+--SHOW  HOW TO ADD TO PSK
+you tube
+http://codepen.io/silicon_hacker/pen/pJVYey
+
+google maps
+http://codepen.io/silicon_hacker/pen/MwQaXB
+
+
+--SHOW THE GOOGLE POLYMER DESIGNER
+http://polymer-designer.appspot.com/
+
+
+---SHOW OTHERS CONTRIBUTIONS
+element collection
+http://experiments.wemakesites.net/
