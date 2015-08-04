@@ -117,10 +117,25 @@ https://github.com/siliconhacker/polymerMeetup
 ## Related Video?
 
 <ul>
-<li>Nuclear Power Plant for Kids (50 secs)</li>
-<li>*Simpsons:*  http://youtu.be/rOgS8gTATv8?t=50s</li>
+
+<li>Polymer Starter Kit -- Polycasts #18</li>
+<li>https://www.youtube.com/watch?v=xz-yixRxZN8</li>
 <br>
-<li>3D game testing (10 secs)</li>
-<li>*Grandma's Boy:* http://youtu.be/-ltORkYAdVk?t=1m30s</li>
+<li>Hello Polymer</li>
+<li>https://www.youtube.com/watch?v=irGDN5Ysi_A</li>
+<br>
+<li>All About Polymer at SFHTML5 </li>
+<li>https://www.youtube.com/watch?t=1370&v=mN7IAaRdi_k</li>
+<br>
+<li>Introducing the Polymer Designer tool</li>
+<li>https://www.youtube.com/watch?v=djQh8XKRzRg</li>
+<br>
+<li>Iron Icons -- Polycasts #20</li>
+<li>https://www.youtube.com/watch?v=6kkNgVG6LuI&feature=em-uploademail</li>
+<br>
+
 </ul>
+
+
+
 
