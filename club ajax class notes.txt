@@ -16,14 +16,14 @@ https://www.polymer-project.org/1.0/docs/devguide/feature-overview.html
 polymer articles 
 https://www.polymer-project.org/1.0/articles/
 
+Utility functions
+https://www.polymer-project.org/1.0/docs/devguide/utility-functions.html
+
 api reference
 http://polymer.github.io/polymer/
 
 polymer catalog 
 https://elements.polymer-project.org/
-
-iron icons
-https://www.polymer-project.org/0.5/components/core-icons/demo.html
 
 
 --SHOW THE DEMO ELEMENTS IN LIVE PREVIEW
@@ -52,11 +52,33 @@ http://polymer-designer.appspot.com/
 
 
 ---SHOW OTHERS CONTRIBUTIONS
-element collection
-http://experiments.wemakesites.net/
+app layout template
+http://polymerelements.github.io/app-layout-templates/
+
+material design
+http://www.google.com/design/spec/material-design/introduction.html
+
+web componet collections
+http://component.kitchen/components
+https://customelements.io/
+
+google group
+https://plus.google.com/+WebcomponentsOrg/posts
+
+todo mvc
+http://todomvc.com/examples/polymer/index.html
+
+sales force
+http://super-demo.herokuapp.com/
 
 spirit faith ministry website
 www.spiritfaithministry.com
+
+browser compatibility
+https://www.polymer-project.org/0.5/resources/compatibility.html
+
+browser support
+https://github.com/WebComponents/webcomponentsjs#browser-support
 
 github class notes
 https://github.com/siliconhacker/polymerMeetup
